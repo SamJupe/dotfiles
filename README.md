@@ -1,1 +1,1 @@
-# dotfiles
+# dotfiles used for linux
